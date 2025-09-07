@@ -1,6 +1,6 @@
 # Codenection-2025
 
-Team: La creatura 
+Team: La creature 
 
 Members: Hesham and @Nickleirsch 
 
