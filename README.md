@@ -1,8 +1,15 @@
 # Codenection-2025
+
 Team: La creatura 
+
 Members: Hesham and @Nickleirsch 
+
 Track: Campus Management System
+
 Published Figma Link: https://merry-linear-94716527.figma.site/
+
 YouTube Video/Presentation: https://youtu.be/f5kCEVASXEw
+
 Presentation Slides: https://mmuedumy-my.sharepoint.com/:p:/g/personal/1231303114_student_mmu_edu_my/EXsLipKUQANNvTNuLJ5vEsgBz_aYGzL4o8L-Hv4slC3lSg?e=UNRLK2
+
 The prototype is in Figma and the published link defaults to a web view. The application prototype is intended for mobile applications only so kindly view it in a mobile layout. (Kindly follow https://developer.chrome.com/docs/devtools/device-mode) Or checkout the link on phone
